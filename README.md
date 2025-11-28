@@ -77,3 +77,12 @@ Players start with basic resources and a few available actions per day. The goal
 2. Install Pygame:
    ```bash
    pip install pygame
+   ```
+3. Clone the repository
+  ```bash
+  git clone https://github.com/DJIGNITE/calendar-resource-clicker.git
+  ```
+4. Run the game
+  ```bash
+  python main.py
+  ```
