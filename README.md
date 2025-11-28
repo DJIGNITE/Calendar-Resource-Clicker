@@ -14,6 +14,9 @@
 - [File Structure](#file-structure)
 
 ---
+## Changelog
+See [CHANGELOG](CHANGELOG.md) for a detailed history of updates and changes.
+---
 
 ## Gameplay
 
